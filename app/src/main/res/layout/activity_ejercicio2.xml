@@ -22,6 +22,7 @@
             android:hint="Numero 1"
             android:inputType="number" />
 
+
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
